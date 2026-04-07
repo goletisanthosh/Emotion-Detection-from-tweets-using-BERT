@@ -1,0 +1,14 @@
+backend/venv/
+backend/node_modules/
+backend/model/
+
+**/venv/
+**/node_modules/
+
+__pycache__/
+*.pyc
+.env
+
+*.bin
+*.pt
+*.h5
